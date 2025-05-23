@@ -2,7 +2,6 @@
 
 I'm Lovoathe
 
-- My name is Chen Yiheng
-- My brother is Chen Bolun
+please visit my github main page！！
 
-awesome!
+Awesome!
