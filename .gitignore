@@ -31,3 +31,6 @@ package-lock.json
 !.vscode/settings.json
 !.vscode/extensions.json
 !.vscode/tasks.json
+
+.obsidian/
+.DS_Store
