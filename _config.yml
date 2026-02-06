@@ -92,6 +92,9 @@ theme_mode: # [light | dark]
 # 启用动画背景特效
 backgroud_animation: true
 
+# 开启之后每次 jekyll 都将重新构建发生更改的文件
+incremental: true
+
 # 启用鼠标点击特效
 mouse_click_effect: true
 
